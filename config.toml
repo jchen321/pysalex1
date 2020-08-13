@@ -130,7 +130,7 @@ subtitle='The Python Spatial Analysis Library'
 # call to action
 [Languages.en.params.cta]
 enable = true
-content = "The PySAL family is divided into four primary components"
+content = ""
 
 
 # call to action button
